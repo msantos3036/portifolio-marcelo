@@ -61,4 +61,43 @@ portfolio-marcelo/
 │── script.js
 │── foto-marcelo.jpg
 
+```
 
+⚙️ Funcionalidades
+Apresentação profissional
+Seção "Sobre mim"
+Destaques da trajetória
+Competências
+Área de projetos
+Contato com links clicáveis
+Layout responsivo
+Interface moderna
+
+📈 Melhorias implementadas
+
+Além da proposta inicial, foram adicionados:
+
+Personalização completa do conteúdo profissional
+Layout com identidade corporativa
+Ajustes visuais (foto em formato circular, melhorias de UI)
+Estrutura voltada para portfólio profissional
+
+🎯 Aprendizados
+
+Durante o desenvolvimento deste projeto, pratiquei:
+
+Estruturação semântica com HTML
+Estilização moderna com CSS
+Organização de projetos no GitHub
+Publicação com GitHub Pages
+Construção de portfólio profissional
+
+👨‍💼 Autor
+
+Marcelo Santos
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/marcelosantos-consultor/
+
+🔗 GitHub:
+https://github.com/msantos3036
